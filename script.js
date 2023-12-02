@@ -16,3 +16,4 @@ function readFile() {
         output.innerText = 'Please select a text file.';
     }
 }
+
