@@ -12,6 +12,11 @@ body {
     text-align: center;
 }
 
+.fileLabel {
+    margin-bottom: 10px;
+    display: block;
+}
+
 input {
     display: none;
 }
